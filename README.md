@@ -8,7 +8,8 @@ welcome to project Redo. this project is dedicated to have you be the better ver
   `DD/MM/YYYY-discordName-ST was here!`
 - Step 4b. Change DD/MM/YYYY-discordName-ST with the date and your discord name  (This should go without saying, so take this as your warning.)
 - Step 5. Commit and Push your changes
-- Step 6. Stand by for your next task.
+- Step 6. Ping me on discord 
+- Step 7. Stand by for your next task.
 
 
 you have until next Friday to complete this. failure to do so will put you behind schedule.
