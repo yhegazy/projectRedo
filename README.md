@@ -14,5 +14,5 @@ welcome to project Redo. this project is dedicated to have you be the better ver
 
 you have until next Friday to complete this. failure to do so will put you behind schedule.
 - `01/02/2025-fm__official-ST was here!`
-- `02/02/2025-xano.nymousxc-ST was here!` AKA Asad Ali/MEE7
+- `02/02/2025-xano.nymousxc-ST was here!`
 - `02/02/2025-thisisnotfez-ST was here!`
