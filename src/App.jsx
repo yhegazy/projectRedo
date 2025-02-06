@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div class="top-left">
-        {/* Change the text to your name */}
+        {/* Change the text to your name  */}
         <h1>
           Hello Beautiful
         </h1>
