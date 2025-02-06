@@ -42,7 +42,7 @@ JSX is JavaScript XML. It allows us to write HTML-like syntax within JavaScript.
 
 Please make your CSS changes in `App.css`
 
-Once completed, create a branch in this format `YYYYMMDD-Name-ST` and commit, then push your changes to the repo. 
+Once completed, create a branch in this format `YYYYMMDD-Name-ST` and commit, then push your changes to the repo. Do not merge.
 
 you have until next Friday to complete this. failure to do so will put you behind schedule.
 
