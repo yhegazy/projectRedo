@@ -4,15 +4,29 @@
   padding: 2rem;
   text-align: center;
 }
- 
+
 .top-left {
-    
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
   position: absolute;
   top: 0;
   left: 0;
+}
+
+.top-left h1 {
+  margin-bottom: 10px;
+}
+
+.top-left ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.top-left li {
+  list-style-type: disc;
+  text-align: left;
 }
 
 .top-center {
@@ -36,6 +50,8 @@
 
 .center-left {
   display: flex;
+  font-size: 18px;
+  color: aliceblue;
   justify-content: center;
   align-items: center;
   position: absolute;
@@ -92,5 +108,3 @@
   right: 0;
   bottom: 0;
 }
-
-
