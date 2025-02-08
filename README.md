@@ -12,7 +12,7 @@ The goal is simple. It is to "<b>Git Gud</b>". Repeat the process until you own 
 
 If you know React, then you know Preact, nanoJSX, and React Native. Simple. Easy.
 
-But before we learn React, we need to have a good understanding of HTML and CSS. We will be using Vite to help build this project. 
+But before we learn React, we need to have a good understanding of HTML and CSS. We will be using Vite to help build this project.
 
 ## What is JSX?
 
